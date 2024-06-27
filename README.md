@@ -7,4 +7,4 @@ Devido à sua importância e por fazerem parte do cotidiano, principalmente no r
 Apresento nesse repositório, um modelo conceitual e dois modelos lógicos que fiz como atividade da disciplina "Programação e Modelagem de Dados" do curso de Análise e Desenvolvimento de Sistemas da Universidade de Franca.
 O modelo conceitual é um modelo "gráfico" relativamente simples que identifica as entidades e suas relações. Já o modelo lógico traz mais detalhes como chaves primárias e estrageiras.
 Essa atividade foi desenvolvida com as ferramentas brModelo e MYSQL Wordkbench e entregue em 25/09/2021.
-Constam nesse repositório os modelos lógico e conceitual e orientaçõe sobre a atividade nas extensões .brm, .mwb, .png, .jpeg e .pdf.
+Constam nesse repositório os modelos lógico e conceitual e orientações sobre a atividade nas extensões .brm, .mwb, .png, .jpeg e .pdf.
