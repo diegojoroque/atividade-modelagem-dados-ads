@@ -1,4 +1,4 @@
-# Projeto de Modelagem de Dados - 25/09/2021
+# Projeto de Modelagem de Dados
 
 O artigo [The world’s most valuable resource is no longer oil, but data](https://www.economist.com/leaders/2017/05/06/the-worlds-most-valuable-resource-is-no-longer-oil-but-data) do jornal britânico The Economist mostra a importância do dados na atualidade.
 Os dados consistem em algo conhecido ou informado, que ainda não recebeu nenhum tipo de tratamento ou processamento, ou seja, dado é a informação bruta enquanto que a informação é o dado processado.
